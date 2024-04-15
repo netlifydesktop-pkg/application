@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Netlify
+Comment=Netlify unofficial desktop application.
+Icon=netlify
+Exec=netlify
+Actions=
+Categories=Utility;
